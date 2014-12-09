@@ -1,0 +1,191 @@
+/* shelves.css by * Hwaet Productions */
+
+#sse1
+
+{
+
+    background-color: #222;
+
+    height: 38px;
+
+    padding: 15px;
+
+    border-radius: 3px;
+
+}
+
+#sses1
+
+{
+
+    margin:0 auto;
+
+}
+
+#sses1 ul 
+
+{ 
+
+    position: relative;
+
+    list-style-type: none;
+
+    float:left;
+
+    padding:0;margin:0;
+
+    border-bottom:solid 1px #6C0000;
+
+}
+
+#sses1 li
+
+{
+
+    float:left;
+
+    list-style-type: none;
+
+    padding:0;margin:0;background-image:none;
+
+}
+
+
+
+#sses1 li.highlight
+
+{
+
+    background-color:#800;
+
+    top:36px;
+
+    height:2px;
+
+    border-bottom:solid 1px #C00;
+
+    z-index: 1;
+
+    position: absolute;
+
+    overflow:hidden;
+
+}
+
+#sses1 li a
+
+{
+
+    height:30px;
+
+    padding-top: 8px;
+
+    margin: 0 20px;
+
+    color: #fff;
+
+    font: normal 12px arial;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    float: left;
+
+    display: block;
+
+    position: relative;
+
+    z-index: 2;
+
+}
+
+
+
+
+body 
+
+{
+
+	background-image: url(http://www.stephenkiel.com/akml/gfx/bg5.jpg);
+	no-repeat center top;
+	font-family:"Helvetica Neue",Arial,Helvetica,sans-serif; 
+	color:#221100; 
+	font-size:0.875em;
+
+	
+
+}
+
+
+
+
+
+table#space
+
+{
+
+	border-collapse:separate;
+
+	border-spacing:0 5px;
+
+}
+
+
+
+table.sortable thead {
+
+    background-color:#eee;
+
+    color:#666666;
+
+    font-weight: bold;
+
+    cursor: default;
+
+}
+
+
+
+tr.spaceUnder > td
+
+{
+
+  padding-bottom: 10em;
+
+}
+
+
+
+a:link{
+
+  color:blue;
+
+}
+
+a:visited{
+
+  color:blue;
+
+}
+
+a:hover{
+
+  color:blue;
+
+}
+
+a:focus{
+
+  color:blue;
+
+}
+
+a:active{
+
+  color:blue;
+
+}
+
+/* Wonder, for in this is your church. "In a climate that is very provocative, tea is not advisable for a beginning:  one should begin an hour earlier with a cup of thick, oil-less cocoa."  Nietzsche, F.; Ecce Homo.; "Why I am so Clever".
+
